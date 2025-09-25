@@ -87,28 +87,32 @@ O projeto está estruturado para testar as seguintes funcionalidades, com docume
 -   [x] **[Ver Casos de Teste do Checkout](./cypress/docs/casos-de-teste-checkout.md)**
 
 ---
-
 ## 🏗️ Estrutura do Projeto
 /
-├── cypress/
-│   ├── e2e/
-│   │   ├── login/
-│   │   ├── cart/
-│   │   └── checkout/
-│   ├── fixtures/
-│   │   ├── usuarios.json
-│   │   └── produtos.json
-│   ├── support/
-│   │   ├── commands.js
-│   │   └── e2e.js
-│   └── docs/
-│       ├── casos-de-teste-login.md
-│       ├── casos-de-teste-carrinho.md
-│       └── casos-de-teste-checkout.md
+├── cypress
+│   ├── docs
+│   │   ├── casos-de-teste-carrinho.md
+│   │   ├── casos-de-teste-checkout.md
+│   │   └── casos-de-teste-login.md
+│   ├── e2e
+│   │   ├── cart
+│   │   │   └── carrinho.cy.js
+│   │   ├── checkout
+│   │   │   └── checkout.cy.js
+│   │   └── login
+│   │       └── login.cy.js
+│   ├── fixtures
+│   │   ├── produtos.json
+│   │   └── usuarios.json
+│   └── support
+│       ├── commands.js
+│       └── e2e.js
 ├── .gitignore
 ├── cypress.config.js
+├── package-lock.json
 ├── package.json
 └── README.md
+
 
 Este projeto foi desenvolvido por **David Queoma da Silva** como parte de seu portfólio profissional em Engenharia de Qualidade de Software.
 
