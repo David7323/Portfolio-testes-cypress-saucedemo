@@ -88,7 +88,7 @@ O projeto está estruturado para testar as seguintes funcionalidades, com docume
 
 ---
 ## 🏗️ Estrutura do Projeto
-/
+
 ├── cypress
 │   ├── docs
 │   │   ├── casos-de-teste-carrinho.md
