@@ -1,0 +1,26 @@
+{
+  "name": "qa-cypress-projeto",
+  "version": "1.0.0",
+  "description": "Projeto de testes automatizados com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test:gui": "cypress open",
+    "test:headless": "cypress run",
+    "test:chrome": "cypress run --browser chrome",
+    "test:firefox": "cypress run --browser firefox",
+    "test:record": "cypress run --record --key <seu-key-cypress-dashboard>",
+    "cy:verify": "cypress verify",
+    "cy:info": "cypress info"
+  },
+  "keywords": [
+    "cypress",
+    "qa",
+    "automation",
+    "tests"
+  ],
+  "author": "David Queoma da Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.2.0"
+  }
+}
