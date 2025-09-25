@@ -64,7 +64,7 @@ Este repositório contém um projeto de automação de testes de ponta-a-ponta (
 
 ## 🧪 Funcionalidades e Testes Cobertos
 
-O projeto está estruturado para testar as seguintes funcionalidades, com documentação detalhada para cada caso de teste na pasta `cypress/docs`.
+O projeto está estruturado para testar as seguintes funcionalidades, com documentação detalhada para cada caso de teste na pasta `cypress/doc`.
 
 ### 1. Autenticação de Usuário (`login.cy.js`)
 -   [x] Login com sucesso
