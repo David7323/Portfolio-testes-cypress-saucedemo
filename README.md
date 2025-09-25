@@ -116,5 +116,5 @@ O projeto está estruturado para testar as seguintes funcionalidades, com docume
 
 
 
-Este projeto foi desenvolvido por **David Queoma da Silva** como parte de seu portfólio profissional em Engenharia de Qualidade de Software.
+Este projeto foi desenvolvido por **David Queoma da Silva** como parte de seu portfólio profissional em Engenharia de Qualidade de Software..
 
