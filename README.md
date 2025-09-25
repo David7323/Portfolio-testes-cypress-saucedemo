@@ -86,7 +86,7 @@ O projeto está estruturado para testar as seguintes funcionalidades, com docume
 -   [ ] (Planejado) Preenchimento dos dados de entrega e continuação do fluxo
 -   [x] **[Ver Casos de Teste do Checkout](cypress/docs/casos-de-teste-checkout.md)**
 
----
+--- 
 ## 🏗️ Estrutura do Projeto
 
 ```text
