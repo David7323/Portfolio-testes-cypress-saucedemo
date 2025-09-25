@@ -89,6 +89,8 @@ O projeto está estruturado para testar as seguintes funcionalidades, com docume
 ---
 ## 🏗️ Estrutura do Projeto
 
+```text
+.
 ├── cypress
 │   ├── docs
 │   │   ├── casos-de-teste-carrinho.md
@@ -112,6 +114,7 @@ O projeto está estruturado para testar as seguintes funcionalidades, com docume
 ├── package-lock.json
 ├── package.json
 └── README.md
+
 
 
 Este projeto foi desenvolvido por **David Queoma da Silva** como parte de seu portfólio profissional em Engenharia de Qualidade de Software.
