@@ -61,7 +61,6 @@ Este repositório contém um projeto de automação de testes de ponta-a-ponta (
         ```
 
 ---
-
 ## 🧪 Funcionalidades e Testes Cobertos
 
 O projeto está estruturado para testar as seguintes funcionalidades, com documentação detalhada para cada caso de teste na pasta `cypress/doc`.
@@ -72,19 +71,19 @@ O projeto está estruturado para testar as seguintes funcionalidades, com docume
 -   [x] Login com usuário bloqueado
 -   [x] Validação de campos em branco
 -   [x] Testes de segurança (espaços em branco, tentativa de SQL Injection)
--   [x] **[Ver Casos de Teste de Login](cypress/docs/casos-de-teste-login.md)**
+-   [x] **[Ver Casos de Teste de Login](cypress/doc/casos-de-teste-login.md)**
 
 ### 2. Carrinho de Compras (`carrinho.cy.js`)
 -   [x] Adicionar um item ao carrinho
 -   [x] Adicionar múltiplos itens ao carrinho
 -   [x] Remover um item do carrinho
 -   [x] **Teste de persistência:** Verificar se o carrinho mantém os itens após logout e login
--   [x] **[Ver Casos de Teste do Carrinho](cypress/docs/casos-de-teste-carrinho.md)**
+-   [x] **[Ver Casos de Teste do Carrinho](cypress/doc/casos-de-teste-carrinho.md)**
 
 ### 3. Finalização de Compra (`checkout.cy.js`)
 -   [x] Navegação para a página de checkout
 -   [ ] (Planejado) Preenchimento dos dados de entrega e continuação do fluxo
--   [x] **[Ver Casos de Teste do Checkout](cypress/docs/casos-de-teste-checkout.md)**
+-   [x] **[Ver Casos de Teste do Checkout](cypress/doc/casos-de-teste-checkout.md)**
 
 --- 
 ## 🏗️ Estrutura do Projeto
